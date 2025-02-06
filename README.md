@@ -11,7 +11,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 
 | 📚 **Tarea** | 📍 **Link** | 🔍 **Descripción** | 🖼️ **Imagen** |
 |----------------|---------|-------------------|--------------------|
-| Tarea 1 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Clase1/tiposDeDatos.js) | Tipos de datos | ![imagen](img/clase1.png) |
+| Tarea 1 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Clase1/tiposDeDatos.js) | Tipos de datos | <img src="img/clase1.png" alt="imagen" width="150"> |
 
 ## 🔧 Instrucciones
 1. Clona el repositorio:
@@ -25,4 +25,5 @@ Si tienes alguna duda o sugerencia, no dudes en contactarme:
 - LinkedIn: [Mi Perfil](https://www.linkedin.com/in/joryer-jimenez-563a3b171/)
 
 💪🚀 Gracias por visitar mi repositorio. Espero que encuentres útil este contenido para tu aprendizaje o inspiración.
+
 
