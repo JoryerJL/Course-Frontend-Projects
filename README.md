@@ -3,15 +3,18 @@
 Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi curso de Frontend. Este archivo README se actualizará constantemente con cada nueva tarea completada.
 
 ## 📝 Tabla de Contenidos
-- [Tareas Completadas](#tareas-completadas)
-- [Instrucciones](#instrucciones)
-- [Contacto](#contacto)
+- [🔧 Repositorio de Tareas del Curso de Frontend 🔧](#-repositorio-de-tareas-del-curso-de-frontend-)
+  - [📝 Tabla de Contenidos](#-tabla-de-contenidos)
+  - [💼 Tareas Completadas](#-tareas-completadas)
+  - [🔧 Instrucciones](#-instrucciones)
+  - [📢 Contacto](#-contacto)
 
 ## 💼 Tareas Completadas
 
 | 📚 **Tarea** | 📍 **Link** | 🔍 **Descripción** | 🖼️ **Imagen** |
 |----------------|---------|-------------------|--------------------|
 | Tarea 1 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Clase1/tiposDeDatos.js) | Tipos de datos | <img src="img/clase1.png" alt="imagen" width="150"> |
+| Tarea 2 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Clase2/sentenciaDeControl.js) | Tipos de datos | <img src="img/clase2.png" alt="imagen" width="150"> |
 
 ## 🔧 Instrucciones
 1. Clona el repositorio:
