@@ -17,6 +17,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 2 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Clase2/sentenciaDeControl.js) | Sentencias de control | <img src="img/clase2.png" alt="imagen" width="150"> |
 | Tarea 3 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Clase3/Ciclos.js) | Ciclos | <img src="img/clase3.png" alt="imagen" width="150"> |
 | Tarea 4 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Clase4/funciones.js) | Funciones | <img src="img/clase4.png" alt="imagen" width="150"> |
+| Tarea 5 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/Clase5) | Objetos | <img src="img/clase5.png" alt="imagen" width="150"> |
 
 ## 🔧 Instrucciones
 1. Clona el repositorio:
