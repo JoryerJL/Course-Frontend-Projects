@@ -20,6 +20,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 5 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/Clase5) | Objetos | <img src="img/clase5.png" alt="imagen" width="150"> |
 | Tarea 6 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/Clase6) | DOM | <img src="img/clase6.gif" alt="imagen" width="150"> |
 | Tarea 7 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/Clase7) | Generador de Passwords | <img src="img/clase7.gif" alt="imagen" width="150"> |
+| Proyecto Integrador | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/ProyectoIntegrador) | Proyecto Integrador | <img src="img/ProyectoIntegrador.gif" alt="imagen" width="150"> |
 
 ## 🔧 Instrucciones
 1. Clona el repositorio:
