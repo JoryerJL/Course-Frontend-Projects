@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #121212;
+    color: white;
+}
+.container {
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    text-align: center;
+    animation: fadeIn 1s ease-in-out;
+}
+@keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+}
+.password-box {
+    display: flex;
+    justify-content: space-between;
+    background: #333;
+    padding: 10px;
+    border-radius: 5px;
+}
+input[type="text"] {
+    border: none;
+    background: none;
+    color: white;
+    flex-grow: 1;
+    outline: none;
+}
+button {
+    background: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+button:hover {
+    background: #45a049;
+}
