@@ -6,10 +6,14 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 - [🔧 Repositorio de Tareas del Curso de Frontend 🔧](#-repositorio-de-tareas-del-curso-de-frontend-)
   - [📝 Tabla de Contenidos](#-tabla-de-contenidos)
   - [💼 Tareas Completadas](#-tareas-completadas)
+  - [MODULO 1](#modulo-1)
+  - [MODULO 1](#modulo-1-1)
   - [🔧 Instrucciones](#-instrucciones)
   - [📢 Contacto](#-contacto)
 
 ## 💼 Tareas Completadas
+
+## MODULO 1
 
 | 📚 **Tarea** | 📍 **Link** | 🔍 **Descripción** | 🖼️ **Imagen** |
 |----------------|---------|-------------------|--------------------|
@@ -21,6 +25,12 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 6 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/Clase6) | DOM | <img src="img/clase6.gif" alt="imagen" width="150"> |
 | Tarea 7 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/Clase7) | Generador de Passwords | <img src="img/clase7.gif" alt="imagen" width="150"> |
 | Proyecto Integrador | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/ProyectoIntegrador) | Proyecto Integrador | <img src="img/ProyectoIntegrador.gif" alt="imagen" width="150"> |
+
+## MODULO 1
+
+| 📚 **Tarea** | 📍 **Link** | 🔍 **Descripción** | 🖼️ **Imagen** |
+|----------------|---------|-------------------|--------------------|
+| Tarea 1 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo1/Clase1) | ECMAScript | <img src="img/Mod2_Clase1.png" alt="imagen" width="150"> |
 
 ## 🔧 Instrucciones
 1. Clona el repositorio:
