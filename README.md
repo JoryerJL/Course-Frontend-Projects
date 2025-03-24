@@ -31,6 +31,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | 📚 **Tarea** | 📍 **Link** | 🔍 **Descripción** | 🖼️ **Imagen** |
 |----------------|---------|-------------------|--------------------|
 | Tarea 1 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase1) | ECMAScript | <img src="img/Mod2_Clase1.png" alt="imagen" width="150"> |
+| Tarea 2 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase2) | Estructura de Datos | <img src="img/Mod2_Clase2.gif" alt="imagen" width="150"> |
 
 ## 🔧 Instrucciones
 1. Clona el repositorio:
