@@ -46,6 +46,6 @@ Si tienes alguna duda o sugerencia, no dudes en contactarme:
 - Email: [joryerjesus10@gmail.com](mailto:joryerjesus10@gmail.com)
 - LinkedIn: [Mi Perfil](https://www.linkedin.com/in/joryer-jimenez-563a3b171/)
 
-💪🚀 Gracias por visitar mi repositorio. Espero que encuentres útil este contenido para tu aprendizaje o inspiración.
+💪🚀 Gracias por visitar mi repositorio. Espero que encuentres útil este contenido para tu aprendizaje o inspiración..
 
 
