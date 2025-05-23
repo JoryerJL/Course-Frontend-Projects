@@ -38,6 +38,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 6 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase6) | Recursion y backtracking | <img src="img/Mod2_Clase6.png" alt="imagen" width="150"> |
 | Tarea 7 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase7) | Divide y Vencerás | <img src="img/Mod2_Clase7.png" alt="imagen" width="150"> |
 | Tarea 8 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase8) | Manejo de archivos con Node.js | <img src="img/Mod2_Clase8.gif" alt="imagen" width="150"> |
+| Tarea 9 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase9) | Event Loopp y Asincronicidad | <img src="img/Mod2_Clase9.gif" alt="imagen" width="150"> |
 ## 🔧 Instrucciones
 1. Clona el repositorio:
     ```bash
