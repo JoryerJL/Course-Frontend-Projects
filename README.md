@@ -40,6 +40,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 8 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase8) | Manejo de archivos con Node.js | <img src="img/Mod2_Clase8.gif" alt="imagen" width="150"> |
 | Tarea 9 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase9) | Event Loopp y Asincronicidad | <img src="img/Mod2_Clase9.gif" alt="imagen" width="150"> |
 | Tarea 10 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase10) | Callbacks and JSON | <img src="img/Mod2_Clase10.gif" alt="imagen" width="150"> |
+| Tarea 11 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase11) | Fetch y Axios | <img src="img/Mod2_Clase11.gif" alt="imagen" width="150"> |
 ## 🔧 Instrucciones
 1. Clona el repositorio:
     ```bash
