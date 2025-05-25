@@ -43,6 +43,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 11 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase11) | Fetch y Axios | <img src="img/Mod2_Clase11.gif" alt="imagen" width="150"> |
 | Tarea 12 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase12) | Promesas y Async/Await | <img src="img/Mod2_Clase12.gif" alt="imagen" width="150"> |
 | Tarea 13 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase13) | Manejo de Formularios | <img src="img/Mod2_Clase13.png" alt="imagen" width="150"> |
+| Tarea 14 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase14) | MValidación de formularios con Zod | <img src="img/Mod2_Clase14.gif" alt="imagen" width="150"> |
 ## 🔧 Instrucciones
 1. Clona el repositorio:
     ```bash
