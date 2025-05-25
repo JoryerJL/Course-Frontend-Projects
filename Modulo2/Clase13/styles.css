@@ -1,0 +1,61 @@
+/* Estilos básicos para el formulario */
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="date"],
+input[type="time"],
+input[type="file"],
+button,
+select {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  width: auto;
+  margin-right: 5px;
+}
+
+button {
+  background-color: #007bff;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
