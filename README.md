@@ -45,6 +45,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 13 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase13) | Manejo de Formularios | <img src="img/Mod2_Clase13.png" alt="imagen" width="150"> |
 | Tarea 14 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase14) | Validación de formularios con Zod | <img src="img/Mod2_Clase14.gif" alt="imagen" width="150"> |
 | Tarea 15 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/mi-exploracion-espacial) | Intro a Node.js y npm | <img src="img/Mod2_Clase15.png" alt="imagen" width="150"> |
+| Tarea 16 | [Ver aquí](https://github.com/JoryerJL/INTRO-VITE) | Intro a vite | <img src="img/Vite.png" alt="imagen" width="150"> |
 ## 🔧 Instrucciones
 1. Clona el repositorio:
     ```bash
