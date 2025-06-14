@@ -36,6 +36,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 4 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase4) | Punteros | <img src="img/Mod2_Clase4.png" alt="imagen" width="150"> |
 | Tarea 5 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase5) | Sliding Window | <img src="img/Mod2_Clase5.png" alt="imagen" width="150"> |
 | Tarea 6 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase6) | Recursion y backtracking | <img src="img/Mod2_Clase6.png" alt="imagen" width="150"> |
+| Tarea 7 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase7) | Divide y Vencerás | <img src="img/Mod2_Clase7.png" alt="imagen" width="150"> |
 
 ## 🔧 Instrucciones
 1. Clona el repositorio:
