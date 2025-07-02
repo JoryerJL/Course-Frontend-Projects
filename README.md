@@ -53,7 +53,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | 📚 **Tarea** | 📍 **Link** | 🔍 **Descripción** | 🖼️ **Imagen** |
 |----------------|---------|-------------------|--------------------|
 | Tarea 1 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase1) | Intro a React | <img src="IntroReact/img/IntroReact.png" alt="imagen" width="150"> |
-| Tarea 2 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase2) | Manejo Estado | <img src="IntroReact/img/IntroReact.png" alt="imagen" width="150"> |
+| Tarea 2 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase2) | Manejo Estado | <img src="IntroReact/img/Clase2.gif" alt="imagen" width="150"> |
 
 ## 🔧 Instrucciones
 1. Clona el repositorio:
