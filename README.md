@@ -7,7 +7,8 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
   - [📝 Tabla de Contenidos](#-tabla-de-contenidos)
   - [💼 Tareas Completadas](#-tareas-completadas)
   - [MODULO 1](#modulo-1)
-  - [MODULO 1](#modulo-1-1)
+  - [MODULO 2](#modulo-2)
+  - [MODULO 2](#modulo-2-1)
   - [🔧 Instrucciones](#-instrucciones)
   - [📢 Contacto](#-contacto)
 
@@ -26,7 +27,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 7 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/Clase7) | Generador de Passwords | <img src="img/clase7.gif" alt="imagen" width="150"> |
 | Proyecto Integrador | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/ProyectoIntegrador) | Proyecto Integrador | <img src="img/ProyectoIntegrador.gif" alt="imagen" width="150"> |
 
-## MODULO 1
+## MODULO 2
 
 | 📚 **Tarea** | 📍 **Link** | 🔍 **Descripción** | 🖼️ **Imagen** |
 |----------------|---------|-------------------|--------------------|
@@ -46,6 +47,13 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 14 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/Modulo2/Clase14) | Validación de formularios con Zod | <img src="img/Mod2_Clase14.gif" alt="imagen" width="150"> |
 | Tarea 15 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/mi-exploracion-espacial) | Intro a Node.js y npm | <img src="img/Mod2_Clase15.png" alt="imagen" width="150"> |
 | Tarea 16 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/INTRO-VITE/adivina-el-numero) | Intro a vite | <img src="img/Vite.png" alt="imagen" width="150"> |
+
+## MODULO 2
+
+| 📚 **Tarea** | 📍 **Link** | 🔍 **Descripción** | 🖼️ **Imagen** |
+|----------------|---------|-------------------|--------------------|
+| Tarea 1 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase1) | Intro a React | <img src="IntroReact/img/IntroReact.png" alt="imagen" width="150"> |
+
 ## 🔧 Instrucciones
 1. Clona el repositorio:
     ```bash
