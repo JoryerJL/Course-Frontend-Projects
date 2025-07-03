@@ -8,7 +8,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
   - [💼 Tareas Completadas](#-tareas-completadas)
   - [MODULO 1](#modulo-1)
   - [MODULO 2](#modulo-2)
-  - [MODULO 2](#modulo-2-1)
+  - [MODULO 3](#modulo-3)
   - [🔧 Instrucciones](#-instrucciones)
   - [📢 Contacto](#-contacto)
 
@@ -48,12 +48,13 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 15 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/mi-exploracion-espacial) | Intro a Node.js y npm | <img src="img/Mod2_Clase15.png" alt="imagen" width="150"> |
 | Tarea 16 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/tree/main/INTRO-VITE/adivina-el-numero) | Intro a vite | <img src="img/Vite.png" alt="imagen" width="150"> |
 
-## MODULO 2
+## MODULO 3
 
 | 📚 **Tarea** | 📍 **Link** | 🔍 **Descripción** | 🖼️ **Imagen** |
 |----------------|---------|-------------------|--------------------|
 | Tarea 1 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase1) | Intro a React | <img src="IntroReact/img/IntroReact.png" alt="imagen" width="150"> |
 | Tarea 2 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase2) | Manejo Estado | <img src="IntroReact/img/Clase2.gif" alt="imagen" width="150"> |
+| Tarea 3 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase3) | Hooks useEffect y useMemo | <img src="IntroReact/img/Clase3.gif" alt="imagen" width="150"> |
 
 ## 🔧 Instrucciones
 1. Clona el repositorio:
