@@ -55,7 +55,7 @@ Bienvenido a mi repositorio donde iré subiendo las tareas realizadas durante mi
 | Tarea 1 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase1) | Intro a React | <img src="IntroReact/img/IntroReact.png" alt="imagen" width="150"> |
 | Tarea 2 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase2) | Manejo Estado | <img src="IntroReact/img/Clase2.gif" alt="imagen" width="150"> |
 | Tarea 3 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase3) | Hooks useEffect y useMemo | <img src="IntroReact/img/Clase3.gif" alt="imagen" width="150"> |
-| Tarea 3 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase4) | Ciclo de vida de Componentes | <img src="IntroReact/img/Clase4.gif" alt="imagen" width="150"> |
+| Tarea 4 | [Ver aquí](https://github.com/JoryerJL/Course-Frontend-Projects/blob/main/IntroReact/Clase4) | Ciclo de vida de Componentes | <img src="IntroReact/img/Clase4.gif" alt="imagen" width="150"> |
 
 ## 🔧 Instrucciones
 1. Clona el repositorio:
